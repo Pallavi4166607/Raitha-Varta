@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.mindmatrix.raithavarta.app-merged_res-37:/drawable_areca_tip.png.flat",
+        "source": "com.mindmatrix.raithavarta.app-main-39:/drawable/areca_tip.png"
+    },
+    {
+        "merged": "com.mindmatrix.raithavarta.app-merged_res-37:/drawable_paddy_tip.png.flat",
+        "source": "com.mindmatrix.raithavarta.app-main-39:/drawable/paddy_tip.png"
+    },
+    {
+        "merged": "com.mindmatrix.raithavarta.app-merged_res-37:/drawable_ic_launcher_round.xml.flat",
+        "source": "com.mindmatrix.raithavarta.app-main-39:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mindmatrix.raithavarta.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.mindmatrix.raithavarta.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mindmatrix.raithavarta.app-merged_res-37:/drawable_tomato_tip.png.flat",
+        "source": "com.mindmatrix.raithavarta.app-main-39:/drawable/tomato_tip.png"
+    },
+    {
+        "merged": "com.mindmatrix.raithavarta.app-merged_res-37:/drawable_coconut_tip.png.flat",
+        "source": "com.mindmatrix.raithavarta.app-main-39:/drawable/coconut_tip.png"
+    },
+    {
+        "merged": "com.mindmatrix.raithavarta.app-merged_res-37:/layout_item_tip_card.xml.flat",
+        "source": "com.mindmatrix.raithavarta.app-main-39:/layout/item_tip_card.xml"
+    },
+    {
+        "merged": "com.mindmatrix.raithavarta.app-merged_res-37:/drawable_ic_launcher.xml.flat",
+        "source": "com.mindmatrix.raithavarta.app-main-39:/drawable/ic_launcher.xml"
+    }
+]

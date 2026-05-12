@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.mindmatrix.raithavarta.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.mindmatrix.raithavarta.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mindmatrix.raithavarta.app-mergeDebugResources-36:/layout/item_tip_card.xml",
+        "source": "com.mindmatrix.raithavarta.app-main-39:/layout/item_tip_card.xml"
+    }
+]

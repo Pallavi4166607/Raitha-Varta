@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color background_color
+color black
+color card_background
+color green_500
+color green_700
+color white
+drawable areca_tip
+drawable coconut_tip
+drawable ic_launcher
+drawable ic_launcher_round
+drawable paddy_tip
+drawable tomato_tip
+id appBarLayout
+id categoryChipGroup
+id fabAskExpert
+id ivTipImage
+id toolbar
+id tvFarmerName
+id tvInstructionEnglish
+id tvInstructionKannada
+id tvSuccessLabel
+id viewPager
+id weatherCard
+layout activity_main
+layout item_tip_card
+string all
+string app_name
+string areca_nut
+string ask_expert
+string coconut
+string paddy
+string success_story
+string tomato
+style Base.Theme.RaithaVarta
+style Theme.RaithaVarta

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#F1F8E9</color>
+    <color name="black">#FF000000</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="green_700">#388E3C</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="all">All</string>
+    <string name="app_name">Raitha-Varta</string>
+    <string name="areca_nut">Areca nut</string>
+    <string name="ask_expert">Ask Expert</string>
+    <string name="coconut">Coconut</string>
+    <string name="paddy">Paddy</string>
+    <string name="success_story">Success Story</string>
+    <string name="tomato">Tomato</string>
+    <style name="Base.Theme.RaithaVarta" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_500</item>
+        <item name="colorPrimaryDark">@color/green_700</item>
+        <item name="colorAccent">@color/green_500</item>
+    </style>
+    <style name="Theme.RaithaVarta" parent="Base.Theme.RaithaVarta"/>
+</resources>
