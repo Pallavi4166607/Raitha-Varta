@@ -11,11 +11,7 @@ This is a minimal end-to-end Android application developed according to the proj
 6. **Glide Media Loading**: Used `Glide` to handle and cache high-quality crop/pest images effectively.
 7. **Kannada Localization**: Flash-cards come packed with dual language text (English and Kannada) to ensure wide accessibility in Karnataka.
 
-## How to Run
-1. Open **Android Studio**.
-2. Select **File > Open** and select the `mindmatrixproject` directory.
-3. Android Studio will automatically resolve the `build.gradle.kts` files and download dependencies.
-4. Run the app on an Emulator or a Physical Device. 
+
 
 ## Project Structure
 - `app/src/main/java/.../data/`: Contains Room Database entities, DAOs, and configuration.
