@@ -1,9 +1,9 @@
-# Raitha-Varta (Agriculture Flash-Card Advisor)
+# Raitha-Varta AI powered flash card advisor
 
 This is a minimal end-to-end Android application developed according to the project specifications. It provides an Instagram-like "Flash-Card" experience for farmers to digest scientific crop advisories efficiently.
 
-## Features Included
-1. **Daily Tip (ViewPager2)**: Uses the recommended `ViewPager2` for an intuitive swipeable flash-card experience.
+## Features 
+1. **Daily Tip **: Uses the recommended `ViewPager2` for an intuitive swipeable flash-card experience.
 2. **Crop Category Filter**: A dynamic `ChipGroup` allowing farmers to filter by [Paddy, Areca nut, Coconut, Tomato].
 3. **Success Story Integration**: Specific cards display localized success stories natively on the UI.
 4. **Expert Ask**: A floating action button simulating sending diseased leaf photos to an expert.
@@ -13,8 +13,3 @@ This is a minimal end-to-end Android application developed according to the proj
 
 
 
-## Project Structure
-- `app/src/main/java/.../data/`: Contains Room Database entities, DAOs, and configuration.
-- `app/src/main/java/.../ui/`: Contains the `TipAdapter` specifically built for ViewPager2.
-- `app/src/main/java/.../MainActivity.kt`: Contains UI binding, mock data pre-population, and filtering logic.
-- `app/src/main/res/layout/`: Contains the XML layout files for high-contrast visibility on the field.
