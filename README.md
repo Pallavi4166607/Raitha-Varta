@@ -3,7 +3,7 @@
 This is a minimal end-to-end Android application developed according to the project specifications. It provides an Instagram-like "Flash-Card" experience for farmers to digest scientific crop advisories efficiently.
 
 ## Features 
-1. **Daily Tip **: Uses the recommended `ViewPager2` for an intuitive swipeable flash-card experience.
+1. Daily Tip : Uses the recommended `ViewPager2` for an intuitive swipeable flash-card experience.
 2. **Crop Category Filter**: A dynamic `ChipGroup` allowing farmers to filter by [Paddy, Areca nut, Coconut, Tomato].
 3. **Success Story Integration**: Specific cards display localized success stories natively on the UI.
 4. **Expert Ask**: A floating action button simulating sending diseased leaf photos to an expert.
